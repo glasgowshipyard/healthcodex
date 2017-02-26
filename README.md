@@ -8,9 +8,8 @@ Building websites that WORK
 Glasgow Shipyard believes you should have a website that is usable to both you and the people viewing it.
 
 We do this by building websites that work.
-===
+
 There is an industry standard out there. It revolves around expensive design companies with a 90’s understanding of how the internet works producing Photoshop “mockups”, developers using bootstrap templates, and marketers with their tripwires, artificial scarcity, business masterminds and market penetration. It’s also largely total bullshit.
-===
 
 The industry standard is an effective way of saying the worst of the homogenous web. Characterless and bloated (but probably very pretty), with *minutes* of work poured into customising some template for a site design that looks like every other one, resulting in your business being treated in exactly the same manner: pointless.
 ===
