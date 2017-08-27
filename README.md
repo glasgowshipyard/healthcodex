@@ -35,5 +35,7 @@ A site must have the fewest lines of code possible, allowing fast loading wherev
 
 A site design must be as close to hand built from scratch* as is reasonable. Adapting templates and frameworks is an excellent way to part you from cash while someone else worked harder for longer for less. That’s not cool.
 
+*_this obviously does not mean reinventing the wheel, because that would be daft._
+
 Glasgow Shipyard build sites on top of '_s' from Automattic.
 
